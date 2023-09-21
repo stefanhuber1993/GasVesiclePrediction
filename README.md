@@ -1,6 +1,6 @@
 # Gas Vesicle Structure Prediction
 
-A primer for structure prediction of the unknown genees in the gas vesicle gene cluster. 
+A primer for structure prediction of the unknown genes in the gas vesicle gene cluster. 
 EMBO course "When prediction meets experiment" 2022 in Palermo.
 
 ## GvpA structure
